@@ -1,8 +1,8 @@
 #include<fstream>
 #include<iostream>
 #include<cstring>
-#include"./Article.h"
-#include"./Admin.h"
+#include"../Article.h"
+#include"../Admin.h"
 #include<windows.h>
  using namespace std;
 Article::Article()// constructor

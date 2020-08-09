@@ -1,8 +1,8 @@
 #include<iostream>
 #include<cstring>
 #include<windows.h>
-#include"./Admin.h"
-#include"./Article.h"
+#include"../Admin.h"
+#include"../Article.h"
 using namespace std;
 void Admin::getPassword()
     {
